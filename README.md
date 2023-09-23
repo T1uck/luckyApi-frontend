@@ -16,6 +16,9 @@ API平台有很多，但是不够统一，本平台帮助企业、个人统一�
 
 **Lucky API平台力求给用户提供简洁、实用的接口调用体验，并且使用API签名校验保障接口调用的安全性**
 
+## 系统架构
+![](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
+
 ## 技术选型
 
 ### 前端
