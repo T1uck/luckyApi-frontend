@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
             copyright={`${currentYear} ${defaultMessage}`}
             links={[
                 {
-                    key: 'Ant Design Pro',
+                    key: 'Lucky API',
                     title: 'Lucky API',
                     href: 'http://localhost:8000',
                     blankTarget: true,
@@ -22,13 +22,13 @@ const Footer: React.FC = () => {
                 {
                     key: 'github',
                     title: <GithubOutlined />,
-                    href: 'https://github.com/ichensw/',
+                    href: 'https://github.com/T1uck',
                     blankTarget: true,
                 },
                 {
-                    key: 'Ant Design',
-                    title: 'Ant Design',
-                    href: 'https://ant.design',
+                    key: 'T1uck',
+                    title: 'T1uck',
+                    href: 'https://github.com/T1uck',
                     blankTarget: true,
                 },
             ]}
