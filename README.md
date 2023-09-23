@@ -44,24 +44,24 @@ Lucky-API 接口开放平台前端代码仓库。 这是一个提供 API 接口�
 
 登陆界面
 
-![](E:\study\Api\lucky-api-frontend\public\api\登陆界面.png)
+![image](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/%E7%99%BB%E9%99%86%E7%95%8C%E9%9D%A2.png)
 
 API 商城界面
 
-![](E:\study\Api\lucky-api-frontend\public\api\API商城界面.png)
+![image](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/API%E5%95%86%E5%9F%8E%E7%95%8C%E9%9D%A2.png)
 
 接口调用界面
 
-![](E:\study\Api\lucky-api-frontend\public\api\接口调用界面.png)
+![image](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8%E7%95%8C%E9%9D%A2.png)
 
 接口管理界面（管理员）
 
-![](E:\study\Api\lucky-api-frontend\public\api\接口管理界面.png)
+![image](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/%E6%8E%A5%E5%8F%A3%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.png)
 
 接口统计界面（管理员）
 
-![](E:\study\Api\lucky-api-frontend\public\api\接口统计分析界面.png)
+![image](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/%E6%8E%A5%E5%8F%A3%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%95%8C%E9%9D%A2.png)
 
 个人中心界面
 
-![](E:\study\Api\lucky-api-frontend\public\api\个人中心界面.png)
+![image](https://github.com/T1uck/luckyApi-frontend/blob/master/public/api/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E7%95%8C%E9%9D%A2.png)
